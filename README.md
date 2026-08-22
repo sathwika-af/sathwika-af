@@ -35,7 +35,7 @@ I enjoy turning ideas into working projects—from academic productivity systems
 
 ### AI & Machine Learning
 
-`Python` `Scikit-learn` `NLP` `Machine Learning`
+`Python` `NLP` `Machine Learning`
 
 ### Tools
 
